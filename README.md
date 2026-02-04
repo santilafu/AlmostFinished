@@ -1045,6 +1045,3 @@ Según el temario, la integración con aplicaciones ofimáticas es posible media
 | Documentación de incidencias | ✅ Completado |
 
 ---
-
-#   A l m o s t F i n i s h e d  
- 
