@@ -438,7 +438,7 @@ ORDER BY active DESC;
 | Activos | 10       | 2020-01-15 | 2024-06-10 |
 | Inactivos | 3        | 2020-03-20 | 2023-11-05 |
 
-![img_1.png](img_1.png)
+![img_1.png](Imagenes/img_1.png)
 
 ### 5.5 Exportar Resultados desde pgAdmin
 
@@ -617,7 +617,7 @@ ORDER BY cantidad_vendida DESC
 ```
 
 **Resultado esperado:**
-![img.png](img.png)
+![img.png](Imagenes/img.png)
 
 
 ### 7.3 Procedimiento Almacenado
@@ -688,7 +688,7 @@ SELECT * FROM obtener_top_productos_vendidos('ES', 5);
 3. **Seguridad:** Encapsula la lógica de negocio
 4. **Mantenimiento:** Cambios centralizados en un solo lugar
 
-![img_2.png](img_2.png)
+![img_2.png](Imagenes/img_2.png)
 
 ---
 
@@ -710,7 +710,7 @@ Según el temario, un **panel de control (dashboard)** es una herramienta de vis
     - Agrupar por: Cliente
 5. Clic en **Favoritos** → **Añadir al tablero**
 
-![img_3.png](img_3.png)
+![img_3.png](Imagenes/img_3.png)
 
 ### 8.3 Crear Gráfico de Líneas de Ventas por Comercial
 
@@ -725,7 +725,7 @@ Según el temario, un **panel de control (dashboard)** es una herramienta de vis
     - Segundo nivel: Fecha (mes)
 5. Guardar como favorito y añadir al tablero
 
-![img_5.png](img_5.png)
+![img_5.png](Imagenes/img_5.png)
 
 ### 8.4 Modificar Vista Añadiendo Campo
 
